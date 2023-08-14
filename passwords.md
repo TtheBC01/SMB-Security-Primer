@@ -9,9 +9,9 @@ A better password would look something like, `tc]Mxh1UJaXP4dmo`, a totaly random
 it is already on the open internet!). If your aren't convinced yet to worry about this, you should know that a bad password can easily 
 [cost your business tens of thousands of dollars](https://www.strongdm.com/blog/small-business-cyber-security-statistics) that you will likely not be able to get back. 
 
-But comming up with a random password is hard, and remembering it is even harder! And how am I supposed to keep track of all the passwords I need for all of my accounts
-and find them when I need them in a hurry? This page will explain to you in plain english the basics of password security and how you can make your life easier  
-(and more secure) using a helpful piece of software called a *password manager*. 
+But comming up with a random password is hard, and remembering it is even harder! And how am I supposed to keep track of all the passwords I need for all 
+of my accounts and find them when I need them in a hurry? This page will explain to you in plain english the basics of password security and how you can 
+make your life easier (and more secure) using a helpful piece of software called a *password manager*. 
 
 ## What Does a Good Password Look Like?
 
@@ -53,3 +53,14 @@ a short list of vendors that I've personally used in the past. Check them out. T
 
 #### Dropbox Passwords
 
+Lots of small businesses already use Dropbox for file storage and sharing. Did you know they also have a password manager application? [Dropbox passwords](https://help.dropbox.com/installs/how-to-use-dropbox-passwords) comes as an additional feature for all paying users of Dropbox. 
+
+#### 1Password
+
+[1Password](https://1password.com/) makes a user-friendly passward manager application that costs around $20 a month for small businesses. Its also suitable for
+businesses that might grow to hundreds of employees. 
+
+#### LastPass
+
+[LastPass](https://www.lastpass.com/) might have had some bad press recently, but overall its still a solid password manager option. LastPass really seems to 
+target larger corporations for their target audience, but its still worth mentioning as an option here. 
