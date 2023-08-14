@@ -64,3 +64,7 @@ businesses that might grow to hundreds of employees.
 
 [LastPass](https://www.lastpass.com/) might have had some bad press recently, but overall its still a solid password manager option. LastPass really seems to 
 target larger corporations for their target audience, but its still worth mentioning as an option here. 
+
+### Basics of Using Your Password Manager
+
+There hardest part is to just get started; once you make it through the initial setup, you'll wonder why you never used a password manager before. 
