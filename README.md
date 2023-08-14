@@ -1,2 +1,4 @@
-# SMB-Security-Primer
-A plain english tutorial for how to establish a basic security stance for your small/medium business (and avoid heartbreak).   
+# Security Tips for Small Business Owners
+
+If you are running a small business anywhere in the world, the cyber security of your company is **your** responsibility. If you can establish some
+simple habits that you and your employees stick to, you can likely save yourself a world of heart break in the future!
